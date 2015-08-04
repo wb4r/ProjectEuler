@@ -23,3 +23,7 @@ end
 p factors_list
 
 #it crashes in cloud9 and windows cygwin with big numbers
+
+# Alt solution. Way out of my knowledge
+#require 'prime'
+#puts Prime.prime_division(600851475143).last[0]
